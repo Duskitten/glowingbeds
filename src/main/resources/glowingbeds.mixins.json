@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.duskitty.glowingbeds.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "PlayerEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
