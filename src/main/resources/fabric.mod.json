@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.duskitty.glowingbeds.Reference"
+      "io.github.duskitty.glowingbeds.Reference"
     ]
   },
   "mixins": [

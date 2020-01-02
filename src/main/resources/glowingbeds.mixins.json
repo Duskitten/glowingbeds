@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "com.duskitty.glowingbeds.mixin",
+  "package": "io.github.duskitty.glowingbeds.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
   ],

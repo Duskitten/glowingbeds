@@ -1,4 +1,4 @@
-package com.duskitty.glowingbeds;
+package io.github.duskitty.glowingbeds;
 
 import net.fabricmc.api.ModInitializer;
 
